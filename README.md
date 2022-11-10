@@ -1,7 +1,7 @@
 # zSonettes
 Create Accueil with a simple config for you Fivem Server
 
-# zAdmin
+# zDev
 
 ## USE SHARED/CONFIG.LUA TO CONFIG SCRIPT
 
